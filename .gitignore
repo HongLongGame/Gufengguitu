@@ -22,10 +22,12 @@ Unity/*.csproj
 Unity/*.vsconfig
 Unity/ProjectSettings/RiderScriptEditorPersistedState.asset
 Unity/HybridCLRData
+Unity/Assets/MeshTerrainEditor
 
 #Unity/Assets
 Unity/Assets/Bundles/Code/*
 Unity/Assets/Bundles/AotDlls/*
+Unity/Assets/Resources/ResCache/Avatar/*
 Unity/Assets/StreamingAssets/
 Unity/Assets/StreamingAssets.meta
 
@@ -51,3 +53,12 @@ obj/
 Publish/
 */Temp/
 */TestResults/
+/Unity/androidBuild
+/Unity/androidBuild_BurstDebugInformation_DoNotShip
+Unity/Assets/Scripts/Hotfix/Server/DigPeople/Handle.meta
+/Unity_Clone
+Unity/Assets/Config/Excel/StartConfig/Localhost/StartMachineConfig@s.xlsx
+Config/Json/s/StartConfig/Localhost/StartMachineConfig.txt
+Config/Json/cs/StartConfig/Localhost/StartMachineConfig.txt
+Config/Excel/s/StartConfig/Localhost/StartMachineConfigCategory.bytes
+Config/Excel/cs/StartConfig/Localhost/StartMachineConfigCategory.bytes
